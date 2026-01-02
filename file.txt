@@ -1,3 +1,7 @@
 wasiq quazi
+<<<<<<< HEAD
 
 quazi quazi
+=======
+quazi 
+>>>>>>> 6f18d3896dffd904d353cdf0904d027961eef988
